@@ -1,4 +1,4 @@
-# CodeIgniter 4 Application Starter
+# R-Jurnal (Jurnal Ramadhan Santri)
 
 ## What is CodeIgniter?
 
