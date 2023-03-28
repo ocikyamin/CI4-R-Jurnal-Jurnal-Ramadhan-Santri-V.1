@@ -1,27 +1,11 @@
 # R-Jurnal (Jurnal Ramadhan Santri)
 
-## What is CodeIgniter?
+![Yellow Modern Freelancer YouTube Thumbnail (2)](https://user-images.githubusercontent.com/109882984/228157472-302a91f2-4fa7-44f8-9610-4af5c61354ef.png)
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://codeigniter.com).
+## What is Jurnal Ramadhan Santri ?
 
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+Jurnal Ramadhan adalah jurnal harian untuk merekam dan mencatat segala peristiwa, jadwal, rencana, aktivitas, dan lain sebagainya. Tujuan utama dari jurnal ramadhan yaitu untuk mengorganisir segala kegiatan atau rutinitas santri berulang agar lebih produktif.
 
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
-
-The user guide corresponding to the latest version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
-
-## Installation & updates
-
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
-
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
 
 ## Setup
 
